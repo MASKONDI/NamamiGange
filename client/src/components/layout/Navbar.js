@@ -126,6 +126,9 @@ class Navbar extends Component {
                   <Link className="dropdown-item" to="/namamigange">
                     NamamiGange Contract
                   </Link>
+                  <Link className="dropdown-item" to="/votingapplication">
+                    Voting Application
+                  </Link>
                 </div>
               </li>
               <li className="nav-item">

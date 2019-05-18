@@ -24,6 +24,7 @@ import Post from "./components/post/Post";
 import NotFound from "./components/not-found/NotFound";
 import App1 from "./components/lottery/App1";
 import App2 from "./components/src/App2";
+import App3 from "./components/voting/App3";
 import Ethereum from "./components/about/ethereum";
 import RealICO from "./components/about/realICO";
 import SmartContract from "./components/about/smartcontract";
@@ -80,6 +81,13 @@ class App extends Component {
               </Switch>
               <Switch>
                 <PrivateRoute exact path="/namamigange" component={App2} />
+              </Switch>
+              <Switch>
+                <PrivateRoute
+                  exact
+                  path="/votingapplication"
+                  component={App3}
+                />
               </Switch>
               <Switch>
                 <PrivateRoute
