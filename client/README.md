@@ -21,7 +21,7 @@ Setup Configuration for Windows:
                         
                         If you are instrated how to run these contract 
                         contact me: email-    erkbrajput@gmail.com  send Mail 
-                        my linkedin profile : https://www.linkedin.com/in/krishnarajput/
+                        my linkedin profile :https://www.linkedin.com/in/krishnarajput/
                                               
                                     
                     
