@@ -1,5 +1,5 @@
 # NamamiGange
-This application created using Nodejs and ReactJs And Smart Contract using Solidity and Smart Contract Deploy over the Rinkeby Test Network.
+This application was created by using Nodejs, ReactJs and Solidity(for creating Smart Contract).These Smart Contracts deployed over the Rinkeby Ethereum Test Network.
 
 Setup Configuration for Windows:
 
@@ -14,7 +14,7 @@ Setup Configuration for Windows:
                     Run Command : npm run kbr
                     check internet Connection for MongoDB Database Connection
 
-Visit the whole websites at localhost:3000 and create your Account and  after Login you can check and participate all contract and application. If any problem related to smart contract add comment to Suggestion box.
+Visit the whole websites at localhost:3000 and create your account and  after Login you can check or validate all smart-contracts and application. If any problem related to smart contracts add comment to Suggestion box.
   
                       
                         If you Wanna check only smartContract than hit below link
