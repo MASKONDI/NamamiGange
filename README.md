@@ -13,7 +13,8 @@ Setup Configuration for Windows:
                     for nodemon:  npm install --save nodemon
                     Run Command : npm run kbr
                     check internet Connection for MongoDB Database Connection
-  Visit the whole websites and create your Account and  after Login you can chevk and participate all contract and application
+
+Visit the whole websites at localhost:3000 and create your Account and  after Login you can check and participate all contract and application. If any problem related to smart contract add comment to Suggestion box.
   
                       
                         If you Wanna check only smartContract than hit below link
